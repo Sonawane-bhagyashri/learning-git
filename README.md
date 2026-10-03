@@ -13,3 +13,8 @@
 * **Zero Dependencies**: Built purely with HTML and CSS.
 * **AI-Assisted Development**: Coded by creating structured prompts with AI tools.
 * **Beginner Friendly**: Lightweight, easy to run locally, and fully accessible in any modern web browser.
+<br>
+## Game Demo
+<p align="center">
+  <img src="https://github.com/Sonawane-bhagyashri/learning-git/blob/1d028770e0e2b685d44ba8a1b7df42dfa982b673/catch-the-stars-demo.gif" width="450" />
+</p>
