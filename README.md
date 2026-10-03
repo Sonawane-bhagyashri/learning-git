@@ -16,5 +16,5 @@
 <br>
 ## Game Demo
 <p align="center">
-  <img src="https://github.com/Sonawane-bhagyashri/learning-git/blob/1d028770e0e2b685d44ba8a1b7df42dfa982b673/catch-the-stars-demo.gif" width="450" alt="Game Demo">
+  <img src="catch-the-stars-demo.gif" width="450" alt="Game Demo">
 </p>
